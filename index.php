@@ -1,1 +1,1 @@
-index.phpfdsgdffffdss
+index.php
