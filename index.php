@@ -1,1 +1,1 @@
-index.phpadsadsa
+index.php
